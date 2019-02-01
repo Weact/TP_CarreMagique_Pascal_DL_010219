@@ -1,0 +1,8 @@
+#commentaire
+*.exe
+*.bak
+*.o
+*.$$$
+*.err
+*.out
+*.ini
